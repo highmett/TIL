@@ -39,7 +39,7 @@
 |     /=      | weight /= 2; | weight = weight / 2; 와 같음 |  80  |
 |     %=      | weight %= 3; | weight = weight % 3; 과 같음 |  2   |
 |     ++      |  weight++;   | weight = weight + 1; 과 같음 |  3   |
-|     - -     |  weight- -;  | weight = weight - 1; 과 같음 |  2   |
+|     - -     |  weight--;   | weight = weight - 1; 과 같음 |  2   |
 
 
 
